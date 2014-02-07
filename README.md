@@ -12,6 +12,7 @@ The repo is called "phyloShiny" rather than "reconciliotastic" because it was co
 Creating a local installation is relatively easy.  First install web2py.  Then checkout the phyloShiny repository. Then run the commands 
 
 git submodule init
+
 git submodule update
 
-in the phyloShiny folder. This will install the dependency BioPython. Put it in web2py/applications.  Make an alias (to phyloShiny) called "shiny".  The demo will be running at http://127.0.0.1:8000/shiny/reconciliotastic/index . 
+in the phyloShiny folder. This will install the dependency BioPython. Put phyloShiny folder in web2py/applications.  Make an alias (to phyloShiny) called "shiny".  The demo will be running at http://127.0.0.1:8000/shiny/reconciliotastic/index . 
