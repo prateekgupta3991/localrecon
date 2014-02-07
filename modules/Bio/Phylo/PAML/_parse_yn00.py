@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/Phylo/PAML/_parse_yn00.py

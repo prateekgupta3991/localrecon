@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/Restriction/__init__.py

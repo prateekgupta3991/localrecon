@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/Pathway/__init__.py
