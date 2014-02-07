@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/Graphics/GenomeDiagram/_LinearDrawer.py

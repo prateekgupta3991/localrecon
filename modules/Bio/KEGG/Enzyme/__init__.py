@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/KEGG/Enzyme/__init__.py

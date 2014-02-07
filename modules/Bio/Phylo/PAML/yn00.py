@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/Phylo/PAML/yn00.py

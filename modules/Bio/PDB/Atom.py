@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/PDB/Atom.py

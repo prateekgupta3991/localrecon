@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/PDB/MMCIF2Dict.py

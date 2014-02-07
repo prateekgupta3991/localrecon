@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/FSSP/__init__.py

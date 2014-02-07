@@ -1,1 +1,0 @@
-/usr/share/pyshared/Bio/NeuralNetwork/Gene/Motif.py

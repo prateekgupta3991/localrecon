@@ -13,10 +13,10 @@ import socket
 import urllib2
 from gluon import *
 import sys
-biopython_lib = request.folder + "modules/"
+biopython_lib = request.folder + "biopython/"
 sys.path.append(biopython_lib)
 from Bio import Phylo
-from Bio.Phylo import *							#import biopython modules as per requirement 
+from Bio.Phylo import *							#import biopython module
 
 
 def index():
